@@ -1,6 +1,6 @@
 go 1.25.9
 
-module github.com/cosmos/cosmos-sdk
+module github.com/amitis-network/cosmos-sdk
 
 require (
 	cosmossdk.io/api v1.0.0
